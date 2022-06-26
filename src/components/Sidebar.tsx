@@ -11,7 +11,7 @@ export function Sidebar(props: SidebarProps) {
   const { data } = useGetLessonsQuery()
   
   return (
-    <aside className={`lg:w-[348px] lg:block ${props.visible} lg:relative absolute top-0 z-50 bg-gray-700 p-6 border-l border-gray-600 w-full min-h-full`}>
+    <aside className={`lg:w-[348px] lg:block ${props.visible} lg:relative absolute top-0 z-50 bg-gray-700 p-6 border-l border-gray-600 w-full min-h-full overflow-y-auto`}>
       <span className="font-bold text-2xl pb-6 mb-5 border-b border-gray-500 block">
         Cronograma das aulas
       </span>
