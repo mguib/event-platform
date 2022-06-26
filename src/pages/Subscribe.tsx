@@ -32,7 +32,7 @@ export function Subscribe() {
         <div className="max-w-[640px] lg:text-left text-center">
           <Logo />
           <h1 className="mt-8 text-[2.5rem] leading-tight">
-            Construa uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React JS</strong>
+            Construa uma <strong className="text-blue-500">aplicação completa "NAMORADA"</strong>, do zero, com <strong className="text-blue-500">React JS</strong>
           </h1>
           <p className="mt-4 text-gray-200 leading-relaxed lg:text-left text-center">Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado.</p>
         </div>
